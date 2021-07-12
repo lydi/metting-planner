@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/meetings
+Content-Type: application/json
+
+{
+  "attendeesCount": 3,
+  "type": "VC",
+  "startDate": "2021-07-12T10:00:00.662192",
+  "endDate": "2021-07-12T11:00:00.662192"
+}
+
